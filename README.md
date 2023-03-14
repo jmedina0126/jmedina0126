@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Jemar, a freelance web developer.
-- I currently work with small businesses to design and develop a company website while also helping to improve their overall online presence. I'm also open to full time work in the industry.
-- 🌱 I’m currently working to improve my design and JavaScript. In my spare time I'm learning React framework an api. I'm always working on my HTML and CSS.
-- 📫 You can reach me on my website https://www.japexwebservices.co.uk/
+Hi there, I'm jmedina0126 👋
 
-<!---
-jmedina0126/jmedina0126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a self-taught web developer with 6 months of experience in the tech industry. I am passionate about coding and love to explore new technologies and programming languages. My GitHub page showcases some of the projects that I have worked on and demonstrates my coding abilities.
+
+Skills
+HTML
+CSS
+JavaScript
+React
+Node.js
+Git
+Projects
+Project 1: A responsive website built using HTML, CSS, and JavaScript.
+Project 2: A React app that allows users to search for books using the Google Books API.
+Project 3: A Node.js app that allows users to track their expenses.
+Contact Me
+If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me on LinkedIn () or via email (). Thank you for visiting my Github page!
