@@ -18,6 +18,6 @@ In my current role as a Data Analyst, I manage the Datix webpage for my organiza
 
 ## Let's Connect
 
-I'm always open to collaboration and love connecting with fellow tech enthusiasts. If you're interested in working together or just want to chat about web development, reach out to me on LinkedIn https://www.linkedin.com/in/jemar-medina/ or via email j.medina0126@gmail.com. Your ideas and insights are always welcome!
+I'm always open to collaboration and love connecting with fellow tech enthusiasts. If you're interested in working together or just want to chat about web development, reach out to me on [LinkedIn](https://www.linkedin.com/in/jemar-medina/) or via [email](j.medina0126@gmail.com). Your ideas and insights are always welcome!
 
 Thank you for stopping by my page, and I look forward to the exciting possibilities of collaboration.
