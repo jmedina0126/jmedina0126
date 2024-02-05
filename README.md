@@ -1,6 +1,6 @@
 # Hi there, I'm jmedina0126 👋
 
-Welcome to my GitHub page! I am a self-taught web developer with a deep passion for front-end development and web content creation. With 6 months in the tech industry and a background in data analysis, I have a unique blend of analytical skills and creative coding.
+Welcome to my GitHub page! I am a self-taught web developer with a deep passion for front-end development and web content creation. With 6 months in the tech industry as a UX researcher and over a year background in data analysis and website management, I have a unique blend of analytical skills and creative coding.
 
 ## About Me
 
