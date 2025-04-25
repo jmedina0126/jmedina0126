@@ -1,21 +1,28 @@
-# Hi there, I'm jmedina0126 👋
+# Hi there, I'm Jemar 👋
 
-Welcome to my GitHub page! I am a self-taught web developer with a deep passion for front-end development and web content creation. With 6 months in the tech industry as a UX researcher and over a year background in data analysis and website management, I have a unique blend of analytical skills and creative coding.
+Welcome to my GitHub! I’m the learning coordinator in a small, dynamic tech team within a large healthcare organization. My role spans a wide range of responsibilities — from development and automation to data analysis, web management, and training.
+
+I began my journey as a self-taught web developer with a passion for front-end design and content creation. Since then, I’ve gained experience in UX research, data analysis, and managing internal platforms, combining creativity with analytical thinking to build practical, user-friendly solutions.
 
 ## About Me
 
-I thrive on exploring new technologies and programming languages, constantly pushing the boundaries of web development. My experience managing the Datix webpage for my organization has not only honed my skills in creating user-centric, responsive designs, but also in developing engaging web content that resonates with users.
+I’m driven by curiosity and a love of continuous learning. Whether it’s mastering a new programming language, refining a user interface, or finding insights in complex datasets, I enjoy diving into challenges that make systems more efficient and user-centered.
+
+Managing my team's webpage has given me hands-on experience in responsive design, web content strategy, and user engagement — all within a high-impact, real-world healthcare environment.
 
 ## Skills
 
-- **Front-End Development:** Proficient in HTML, CSS, and JavaScript. I have a keen eye for design and a commitment to building intuitive user interfaces.
-- **Web Content Creation:** Skilled in creating engaging, SEO-friendly content that enhances user engagement and drives website traffic.
-- **Back-End Basics:** Familiar with Node.js, enabling me to understand and work on full-stack projects.
-- **Version Control:** Experienced with Git for efficient, collaborative coding.
+- **Front-End Development:** Proficient in HTML, CSS, and JavaScript, with a focus on building clean, accessible, and intuitive UIs.
+- **Web Content Management:** Experienced in creating engaging, SEO-conscious content tailored to user needs and organisational goals.
+- **Basic Back-End:** Familiar with Node.js and the full-stack development process.
+- **Automation & Scripting:** Skilled in using **Python, Excel (VBA & formulas), and Power Automate** to streamline workflows, reduce manual tasks, and improve data handling.
+- **Version Control:** Confident with Git for team collaboration and workflow management.
+- **Data Analysis:** Skilled in analyzing and presenting data insights to improve systems and inform decision-making.
 
-## My Role as a Data Analyst
+## My Role in Data & Systems
 
-In my current role as a Data Analyst, I manage the Datix webpage for my organization. This experience has enriched my understanding of user data interaction, driving my interest in crafting more user-friendly web experiences and web content.
+As a Data Analyst, I support system development, reporting, and dashboard design — often by automating repetitive tasks and improving data workflows using tools like Python, Excel, and Power Automate. I also manage the Datix intranet presence, where I apply both technical and UX principles to improve the way users interact with the platform. This hybrid role has sharpened my understanding of how people engage with data and technology in a healthcare context.
+
 
 ## Let's Connect
 
